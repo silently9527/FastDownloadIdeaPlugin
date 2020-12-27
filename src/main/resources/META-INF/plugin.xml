@@ -1,11 +1,10 @@
 <idea-plugin>
     <id>cn.silently9527.fast-download-idea-plugin</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>FastDownloadPlugin</name>
+    <vendor email="380303318@qq.com" url="https://silently9527">Silently9527</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    多线程文件下载器
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
