@@ -67,15 +67,12 @@ public class FastDownloadAction extends AnAction {
                 speed = alreadyDownloadLength - tmpAlreadyDownloadLength;
                 tmpAlreadyDownloadLength = alreadyDownloadLength;
 
-                System.out.println(contentLength + " => " + alreadyDownloadLength);
                 double value = (double) alreadyDownloadLength / (double) contentLength;
-                System.out.println(String.format("%.2f", value));
 
                 double fraction = Double.parseDouble(String.format("%.2f", value));
                 progressIndicator.setFraction(fraction);
                 String text = "already download " + fraction * 100 + "% ,speed: " + (speed / 1000) + "KB";
                 progressIndicator.setText(text);
-                System.out.println(text);
             }
         });
 
