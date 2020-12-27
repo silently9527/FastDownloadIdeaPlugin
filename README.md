@@ -15,14 +15,14 @@
 
 
 ### 插件安装
+
+插件下载链接: [https://pan.baidu.com/s/1cmzKgmu8JwUa-liWmNl5jw](https://pan.baidu.com/s/1cmzKgmu8JwUa-liWmNl5jw) 提取码: 3f4t 
+
 下载插件之后，选择本地安装
 
 ![](https://raw.githubusercontent.com/silently9527/FastDownloadIdeaPlugin/master/docs/watermark.jpg)
 
 > 目前测试过程中发现文件下载速度计算不太准确，个别线程的下载速度未能统计在内，后期继续优化。
->
-> 插件下载链接: [https://pan.baidu.com/s/1cmzKgmu8JwUa-liWmNl5jw](https://pan.baidu.com/s/1cmzKgmu8JwUa-liWmNl5jw) 提取码: 3f4t 
-
 
 ### 开发文档
 
