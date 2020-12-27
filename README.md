@@ -29,4 +29,8 @@
 IDEA插件：多线程文件下载插件开发
 
 
+#### 测试多线程下载文件
+
+测试下载820M的idea ，地址：https://download.jetbrains.8686c.com/idea/ideaIU-2020.3.dmg
+
 ![](https://github.com/silently9527/FastDownloadIdeaPlugin/blob/master/docs/%E6%B5%8B%E8%AF%95.gif?raw=true)
