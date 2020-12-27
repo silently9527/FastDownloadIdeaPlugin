@@ -17,7 +17,7 @@
 ### 插件安装
 下载插件之后，选择本地安装
 
-![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2a12851f10d146bfac988193c1b1c0a8~tplv-k3u1fbpfcp-watermark.image)
+![](https://raw.githubusercontent.com/silently9527/FastDownloadIdeaPlugin/master/docs/watermark.jpg)
 
 > 目前测试过程中发现文件下载速度计算不太准确，个别线程的下载速度未能统计在内，后期继续优化。
 >
@@ -27,3 +27,6 @@
 ### 开发文档
 
 IDEA插件：多线程文件下载插件开发
+
+
+![](https://github.com/silently9527/FastDownloadIdeaPlugin/blob/master/docs/%E6%B5%8B%E8%AF%95.gif?raw=true)
