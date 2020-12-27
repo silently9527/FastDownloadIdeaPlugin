@@ -24,8 +24,6 @@
 > 插件下载链接: [https://pan.baidu.com/s/1cmzKgmu8JwUa-liWmNl5jw](https://pan.baidu.com/s/1cmzKgmu8JwUa-liWmNl5jw) 提取码: 3f4t 
 
 
-### 测试多线程下载文件
+### 开发文档
 
-测试下载820M的idea ，地址：https://download.jetbrains.8686c.com/idea/ideaIU-2020.3.dmg
-
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e7fba4ca172443ce9b92a7e8c5d089d3~tplv-k3u1fbpfcp-watermark.image)
+IDEA插件：多线程文件下载插件开发
